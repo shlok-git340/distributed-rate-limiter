@@ -326,9 +326,3 @@ This validates:
 - Kubernetes deployment
 
 ---
-
-# Example Resume Bullet
-
-> Built a distributed rate limiting infrastructure service using Flask and Redis implementing token bucket, fixed window, and sliding window algorithms with Lua-scripted atomic operations, JWT-aware user throttling, middleware-based request interception, and Dockerized multi-instance deployment behind Nginx load balancing.
-
----
