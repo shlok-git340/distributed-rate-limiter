@@ -1,0 +1,6 @@
+flask
+redis
+gunicorn
+python-dotenv
+pyjwt
+jwt
