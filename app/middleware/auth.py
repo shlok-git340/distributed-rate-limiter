@@ -1,8 +1,13 @@
 import jwt
 
 from flask import request, g
+import os
 
-SECRET = "super-secret"
+SECRET = os.getenv(
+    "JWT_SECRET",
+    "super-secret"
+)
+
 
 def register_auth(app):
 
