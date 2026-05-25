@@ -163,7 +163,7 @@ distributed-rate-limiter/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/distributed-rate-limiter.git
+git clone https://github.com/shlok-git340/distributed-rate-limiter.git
 
 cd distributed-rate-limiter
 ```
